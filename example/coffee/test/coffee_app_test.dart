@@ -1,5 +1,9 @@
 import 'dart:async';
 
+import 'package:inject.example.coffee/src/coffee_maker.dart';
+import 'package:inject.example.coffee/src/drip_coffee_module.dart';
+import 'package:inject.example.coffee/src/electric_heater.dart';
+import 'package:inject.example.coffee/src/heater.dart';
 import 'package:inject/inject.dart';
 import 'package:test/test.dart';
 
